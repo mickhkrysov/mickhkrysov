@@ -4,4 +4,6 @@
 <br>
 **`★I am a full-stack developer and artist that decided to create a separate account solely for projects outside of college.`**
 <br>
-**`★ Python, C++, Kotlin, Swift, JavaScript`**
+**`★ Python, C++, C# Kotlin, Swift, JavaScript`**
+<br>
+**`★ Current big project: A gear`**
