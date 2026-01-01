@@ -1,9 +1,7 @@
 ## Mikhail/Mik/Misha/RottenFromTheInside
 
-**`mobile computing major, 2D artist & animator, indie game developer`**
+**`Mobile computing major, digital artist & animator, full-stack, idie game developer`**
 <br>
-**`★I am a full-stack developer and artist that decided to create a separate account solely for projects outside of college.`**
+**`★ Python, C++, C# Kotlin, Swift, JavaScript;`**
 <br>
-**`★ Python, C++, C# Kotlin, Swift, JavaScript`**
-<br>
-**`★ Current big project: A gear`**
+**`★ Current big project: A gear (video game)`**
